@@ -1,0 +1,6 @@
+{
+  "name": "Gerenciador de Devedores",
+  "description": "Um aplicativo simples para rastrear devedores, pagamentos e valores pendentes. Controle quem lhe deve, quem já pagou e o quanto falta para receber.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
